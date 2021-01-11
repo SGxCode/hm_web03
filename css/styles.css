@@ -1,0 +1,22 @@
+body {
+  background-color: brown;
+}
+#czas {
+  color: beige;
+  float: right;
+  font-weight: bolder;
+}
+#obraz {
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#tekst {
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+p {
+  color: beige;
+  font-weight: bold;
+}
